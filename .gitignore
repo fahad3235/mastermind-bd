@@ -1,0 +1,6 @@
+# Mastermind BD — nothing to ignore at runtime (static site, no build).
+# Kept so editors and OSes do not pollute future commits.
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
