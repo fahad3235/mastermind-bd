@@ -88,5 +88,5 @@ factory's snapshot-push procedure); no build step runs on Pages.
 
 ## Status
 
-Complete MVP. Factory run #177 (17:00 slot, 2026-10-29) — see
+Complete MVP. Factory run #178 (17:00 slot, 2026-10-29) — see
 `TEST_RESULTS.md` for the verified test record.
